@@ -1,0 +1,8 @@
+C:\Users\saiful islam\Documents\People N Tech(ASP.NET)\Electricity Bill\Electricity Bill\bin\Debug\Electricity Bill.exe.config
+C:\Users\saiful islam\Documents\People N Tech(ASP.NET)\Electricity Bill\Electricity Bill\bin\Debug\Electricity Bill.exe
+C:\Users\saiful islam\Documents\People N Tech(ASP.NET)\Electricity Bill\Electricity Bill\bin\Debug\Electricity Bill.pdb
+C:\Users\saiful islam\Documents\People N Tech(ASP.NET)\Electricity Bill\Electricity Bill\obj\Debug\Electricity Bill.csproj.AssemblyReference.cache
+C:\Users\saiful islam\Documents\People N Tech(ASP.NET)\Electricity Bill\Electricity Bill\obj\Debug\Electricity Bill.csproj.CoreCompileInputs.cache
+C:\Users\saiful islam\Documents\People N Tech(ASP.NET)\Electricity Bill\Electricity Bill\obj\Debug\Electricity Bill.exe
+C:\Users\saiful islam\Documents\People N Tech(ASP.NET)\Electricity Bill\Electricity Bill\obj\Debug\Electricity Bill.pdb
+C:\Users\saiful islam\Documents\People N Tech(ASP.NET)\Electricity Bill\Electricity Bill\obj\Debug\Electricity Bill.exe.config

@@ -1,0 +1,7 @@
+E:\saiful\class-04\class-04\bin\Debug\class-04.exe.config
+E:\saiful\class-04\class-04\bin\Debug\class-04.exe
+E:\saiful\class-04\class-04\bin\Debug\class-04.pdb
+E:\saiful\class-04\class-04\obj\Debug\class-04.csproj.AssemblyReference.cache
+E:\saiful\class-04\class-04\obj\Debug\class-04.csproj.CoreCompileInputs.cache
+E:\saiful\class-04\class-04\obj\Debug\class-04.exe
+E:\saiful\class-04\class-04\obj\Debug\class-04.pdb

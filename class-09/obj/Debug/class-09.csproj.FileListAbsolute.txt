@@ -1,0 +1,7 @@
+E:\Saiful\class-09\bin\Debug\class-09.exe.config
+E:\Saiful\class-09\bin\Debug\class-09.exe
+E:\Saiful\class-09\bin\Debug\class-09.pdb
+E:\Saiful\class-09\obj\Debug\class-09.csproj.AssemblyReference.cache
+E:\Saiful\class-09\obj\Debug\class-09.csproj.CoreCompileInputs.cache
+E:\Saiful\class-09\obj\Debug\class-09.exe
+E:\Saiful\class-09\obj\Debug\class-09.pdb
